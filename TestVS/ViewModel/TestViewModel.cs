@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TestVS.ViewModel
 {
-    class TestViewModel
+   public  class TestViewModel
     {
+
+        int i = 0;
+
     }
 }
